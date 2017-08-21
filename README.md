@@ -3,7 +3,7 @@ Projeto de Engenharia de Software 3
 
 ## Integrantes
 * Elvis Piccoli
-* Fernando Paiva
+* Fernando Paim
 * Filipe Gorges
 * Jeronimo Menezes
 * Mariana Minossi
